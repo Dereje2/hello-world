@@ -23,9 +23,9 @@
 
   <distributionManagement>
     <site>
-      <id>site-server</id>
+      <id>maven-snapshots</id>
       <name>maven-snapshots</name>
-      <url>http://47.129.168.220:8081/repository/maven-snapshots/</url>
+      <url>http://54.242.141.201:8081/repository/maven-snapshots/</url>
     </site>
   </distributionManagement>
 
